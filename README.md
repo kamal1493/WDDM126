@@ -9,3 +9,6 @@ This project demonstrates basic Git and GitHub workflows, including commits, pus
 - Visual Studio Code
 - Git
 - GitHub
+## Branching and Pull Requests
+
+This project demonstrates feature branches, merge conflict resolution, and GitHub collaboration using Pull Requests.
